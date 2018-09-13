@@ -1,0 +1,5 @@
+## ****取证****
+
+[Volatility](http://www.volatilityfoundation.org/): 从 RAM 中提取数据[Rekall](http://www.rekall-forensic.com): Google 开发的内存分析框架[LibForensics](http://code.google.com/p/libforensics/): 数字取证应用程序库[TrIDLib](http://mark0.net/code-tridlib-e.html): Python 实现的从二进制签名中识别文件类型[aft](https://github.com/agnivesh/aft): 安卓取证工具集恶意软件分析
+
+[pyew](https://github.com/joxeankoret/pyew): 命令行十六进制编辑器和反汇编工具，主要用于分析恶意软件[Exefilter](http://www.decalage.info/exefilter): 过滤 E-mail，网页和文件中的特定文件格式。可以检测很多常见文件格式，也可以移除文档内容。[pyClamAV](http://xael.org/norman/python/pyclamav/index.html): 增加你 Python 软件的病毒检测能力[jsunpack-n](https://github.com/urule99/jsunpack-n): 通用 JavaScript 解释器，通过模仿浏览器功能来检测针对目标浏览器和浏览器插件的漏洞利用[yara-python](https://github.com/plusvic/yara/tree/master/yara-python): 对恶意软件样本进行识别和分类[phoneyc](https://github.com/honeynet/phoneyc): 纯 Python 实现的蜜罐[CapTipper](https://github.com/omriher/CapTipper): 分析，研究和重放 PCAP 文件中的 HTTP 恶意流量

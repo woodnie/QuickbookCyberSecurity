@@ -1,0 +1,9 @@
+# Cryptography {#cryptography}
+
+公钥：RSA， RSA-E， RSA-S， ELG-E， DSA
+
+对称加密：3DES， CAST5， BLOWFISH， AES， AES192， AES256， TWOFISH
+
+散列：MD5， SHA1， RIPEMD160， SHA256， SHA384， SHA512
+
+压缩：不压缩， ZIP， ZLIB， BZIP2

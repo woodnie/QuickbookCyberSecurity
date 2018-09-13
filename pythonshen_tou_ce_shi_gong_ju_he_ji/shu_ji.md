@@ -1,0 +1,3 @@
+## ****书籍****
+
+[Violent Python](https://www.elsevier.com/books/violent-python/unknown/978-1-59749-957-6) TJ O’Connor著: 详细介绍黑客，取证分析，渗透测试和安全工程师的书 (注：[乌云社区](http://zone.wooyun.org/content/23819)有中文翻译版，感谢草帽小子-DJ和crown丶prince 的翻译)[Grey Hat Python](http://item.jd.com/11121583.html) Justin Seitz著: Python 编程用于黑客和逆向工程[Black Hat Python](http://www.nostarch.com/blackhatpython) Justin Seitz著:Python 编程用于黑客和渗透测试[Python Penetration Testing Essentials](https://www.packtpub.com/networking-and-servers/python-penetration-testing-essentials) Mohit著:借助 Python 的力量做到最好的渗透测试[Python for Secret Agents](https://www.packtpub.com/hardware-and-creative/python-secret-agents) Steven F. Lott著: 使用 Python 分析，加密和分析数据
