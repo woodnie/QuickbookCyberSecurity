@@ -1,0 +1,3 @@
+## ****杂项****
+
+[InlineEgg](http://oss.coresecurity.com/projects/inlineegg.html): 使用 Python 编写的具有一系列小功能的工具箱[Exomind](http://corelabs.coresecurity.com/index.php?module=Wiki&action=view&type=tool&name=Exomind): 是一个利用社交网络进行钓鱼攻击的工具[RevHosts](http://www.securityfocus.com/tools/3851): 枚举指定 IP 地址包含的虚拟主句[simplejson](https://github.com/simplejson/simplejson/): JSON 编码和解码器，例如使用 [Google’s AJAX API](http://dcortesi.com/2008/05/28/google-ajax-search-api-example-python-code/)[PyMangle](http://code.google.com/p/pymangle/): 命令行工具和一个创建用于渗透测试使用字典的库[Hachoir](https://bitbucket.org/haypo/hachoir/wiki/Home): 查看和编辑二进制流

@@ -1,0 +1,3 @@
+## **其他SCAP元素** {#scap}
+
+　　CVE（Common Vulnerabilities and Exposures：通用漏洞及披露）是包含了公众已知的信息安全漏洞的信息和披露的集合。CCE（Common Configuration Enumeration：通用配置枚举）是用于描述计算机及设备配置的标准化语言。CPE（Common Platform Enumeration：通用平台枚举）是一种对应用程序、操作系统以及硬件设备进行描述和标识的标准化方案。　　CVSS（Common Vulnerability Scoring System：通用漏洞评分系统）是一个行业公开标准，其被设计用来评测漏洞的严重程度，并帮助确定其紧急度和重要度。在SCAP版本1.2中，引入了另外两个新标准：OCIL（Open Checklist Interactive Language：开放检查单交互语言）和CCSS（Common Configuration Scoring System：通用配置评分系统）。OCIL能够用来处理安全检查中需要人工交互反馈才能完成的检查项，CCSS作用与CVSS类似，不过CCSS关注的是系统配置缺陷的严重程度。
