@@ -62,3 +62,10 @@
   * [其他 ](pythonshen_tou_ce_shi_gong_ju_he_ji\qi_ta.md)
   * [Nessus](pythonshen_tou_ce_shi_gong_ju_he_ji\nessus.md)
   * [Vulnerbility](pythonshen_tou_ce_shi_gong_ju_he_ji\vulnerbility.md)
+* [CISP-PTE](cisp-pte.md)
+  * [Pre](cisp-pte/pre.md)
+  * [Day1](cisp-pte/day1.md)
+  * [Day0](cisp-pte/day0.md)
+  * [Day2](cisp-pte/day2.md)
+  * [Day3](cisp-pte/day3.md)
+
