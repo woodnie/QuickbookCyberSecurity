@@ -1,5 +1,5 @@
-# resource {#resource}
+# Resource {#resource}
 
-在线资源
+How to become a Haker
 
-渗透测试资源
+[http://www.yikeqi.com/336.html](http://www.yikeqi.com/336.html)
