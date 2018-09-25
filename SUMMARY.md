@@ -143,4 +143,6 @@
   * [Day0](cisp-pte/day0.md)
   * [Day2](cisp-pte/day2.md)
   * [Day3](cisp-pte/day3.md)
+* [Exploit Article](exploit-article.md)
+  * [Singapore Hotels: ezxcess.antlabs.com](exploit-article/singapore-hotels-ezxcessantlabscom.md)
 
