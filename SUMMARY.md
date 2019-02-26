@@ -90,6 +90,7 @@
     * [Web Vulnerability Scanner](tools\tools_web_scan\web_vulnerability_scanner.md)
   * [Backtrack](tools\backtrack.md)
   * [Kail Linux](tools\kail_linux.md)
+    * [tips](tools/kail_linux/tips.md)
   * [Anonymous-os](tools\anonymous-os.md)
   * [OpenVAS](tools\openvas.md)
   * [skipfish](tools\skipfish.md)
